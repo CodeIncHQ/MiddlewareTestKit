@@ -34,6 +34,8 @@ use Psr\Http\Message\ResponseInterface;
  * @uses FakeRequestHandler
  * @package CodeInc\MiddlewareTestKit\Tests
  * @author Joan Fabrégat <joan@codeinc.fr>
+ * @link https://github.com/CodeIncHQ/MiddlewareTestKit
+ * @license MIT <https://github.com/CodeIncHQ/MiddlewareTestKit/blob/master/LICENSE>
  */
 final class FakeRequestHandlerTest extends TestCase
 {

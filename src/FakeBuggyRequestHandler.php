@@ -30,8 +30,10 @@ use Psr\Http\Message\ServerRequestInterface;
  * Class FakeBuggyRequestHandler
  *
  * @see FakeBuggyRequestHandlerTest
- * @package CodeInc\MiddlewareTestKit\Tests\Assets
+ * @package CodeInc\MiddlewareTestKit
  * @author Joan Fabrégat <joan@codeinc.fr>
+ * @link https://github.com/CodeIncHQ/MiddlewareTestKit
+ * @license MIT <https://github.com/CodeIncHQ/MiddlewareTestKit/blob/master/LICENSE>
  */
 class FakeBuggyRequestHandler extends FakeRequestHandler
 {
